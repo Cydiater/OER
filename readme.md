@@ -126,7 +126,7 @@ make gen
 
 我本机的基本配置如下：
 
-![spec](/Users/cydiater/Lab/MMCF/doc/image/spec.png)
+![spec](./doc/image/spec.png)
 
 以下是测得的数据：
 
